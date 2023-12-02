@@ -1,0 +1,18 @@
+{
+  "name": "discord-cmdhandler-js",
+  "description": "A custom command handler for discord.js",
+  "version": "1.0.2",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rif223/discord-cmdhandler-js.git"
+  },
+  "author": "rif223",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.1.2"
+  }
+}
